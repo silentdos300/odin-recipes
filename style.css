@@ -59,3 +59,32 @@ ul{
     list-style: none;
     justify-content: space-around;
 }
+
+
+img {
+    text-align: center;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0px 0px 4px;
+}
+
+p{
+    color: white;
+    margin-top: 45px;
+    font-size: 1.5em;
+    margin-left: 15px;
+}
+
+.pop-span{
+    font-weight: bold;
+
+}
+
+
+.main-p{
+    width: 80%;
+    border: 3px solid white;
+}
