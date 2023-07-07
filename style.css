@@ -88,3 +88,7 @@ p{
     width: 80%;
     border: 3px solid white;
 }
+
+.contents{
+    display: flex;
+}
