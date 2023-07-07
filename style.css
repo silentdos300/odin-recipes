@@ -8,6 +8,14 @@
     background-color: #24252a;
 }
 
+#current-page{
+    color: rgb(150, 150, 150);
+}
+
+
+
+
+
 a{
     text-decoration: none;
     color: white;
@@ -27,6 +35,17 @@ a:hover{
     color: orange;
     font-weight: bold;
 }
+
+#current-page{
+    color: rgb(150, 150, 150);
+}
+
+#current-page:hover{
+    cursor:auto;
+    font-size: 1em;
+    font-weight: normal
+}
+
 
 header{
     display: flex;
